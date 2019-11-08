@@ -1,4 +1,4 @@
-# docker-terraformGoGit
+# docker-terraformCloudGit
 This project offers a docker image good for development of terraform scripts for cloud platforms such as:
     
     * Amazon Web Services Cloud
